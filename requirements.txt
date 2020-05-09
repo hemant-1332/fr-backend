@@ -44,4 +44,5 @@ tornado==6.0.3
 traitlets==4.3.3
 wcwidth==0.1.7
 Werkzeug==0.16.0
+whitenoise==5.0.1
 zope.interface==4.7.1
