@@ -35,7 +35,15 @@ yarn-error.log
 testem.log
 /typings
 /media/*
+*.pyc
 
 # System Files
 .DS_Store
 Thumbs.db
+
+# Text backup files
+*.bak
+*.OLD
+
+# Database
+*.sqlite3
